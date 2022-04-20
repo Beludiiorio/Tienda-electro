@@ -119,6 +119,7 @@ form div {
 footer { /*centramos los elementos dentro del footer*/ 
     width: max-content;
     margin: auto;
+    
 }
 footer i {
     font-size: 35px;
@@ -148,4 +149,7 @@ footer i {
         width: 100%;
         height: 300px;
     }
+}
+footer .redes {
+    padding-bottom: 20px;
 }
